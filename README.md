@@ -3,7 +3,7 @@
 <p align="left"><a href="https://github.com/alpsarikisla?tab=repositories"><img src="https://img.shields.io/github/stars/alpsarikisla?style=social"></a> <img src="https://komarev.com/ghpvc/?username=alpsarikisla&label=Profile%20views&color=0e75b6&style=flat" alt="Veksisbusiness.com" /> </p>
 # Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/ibrahim-alp-sarikisla-9514037b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alp Sarıkışla" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alpsarikisla/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alp Sarıkışla" height="30" width="40" /></a>
 <a href="https://www.instagram.com/alps.code/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Alp Sarıkışla" height="30" width="40" /></a>
 </p>
 <a href="https://github.com/anuraghazra/convoychat">
