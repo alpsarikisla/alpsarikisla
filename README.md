@@ -20,4 +20,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alpsarikisla&show_icons=true&theme=radical" width="470" height="250" />
 </a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alpsarikisla&label=Profile%20views&color=0e75b6&style=flat" alt="Veksisbusiness.com" /> </p>
+
 
