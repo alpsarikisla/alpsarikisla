@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am Alp Sarıkışla. I work on software development and give training. I am interested in all areas of informatics, but I mostly develop projects with C# and Python language.
 <!--
 **alpsarikisla/alpsarikisla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
