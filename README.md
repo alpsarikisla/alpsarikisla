@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <a href="https://github.com/alpsarikisla/"><img src="https://img.shields.io/github/stars/alpsarikisla" alt="stars"/></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alpsarikisla&label=Profile%20views&color=0e75b6&style=flat" alt="Veksisbusiness.com" /> </p>
-### Connect with me:
+# Connect with me:
 
 <p align="left">
 <a href="https://www.linkedin.com/in/ibrahim-alp-sar%C4%B1k%C4%B1%C5%9Fla-9514037b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alp Sarıkışla" height="30" width="40" /></a>
