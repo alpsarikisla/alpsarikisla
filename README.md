@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 # Connect with me:
 
 <p align="left">
-<a href="https://www.linkedin.com/in/ibrahim-alp-sar%C4%B1k%C4%B1%C5%9Fla-9514037b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alp Sarıkışla" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ibrahim-alp-sarikisla-9514037b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alp Sarıkışla" height="30" width="40" /></a>
 <a href="https://www.instagram.com/alps.code/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Alp Sarıkışla" height="30" width="40" /></a>
 </p>
 <a href="https://github.com/anuraghazra/convoychat">
