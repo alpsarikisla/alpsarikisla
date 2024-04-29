@@ -13,7 +13,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpsarikisla&layout=compact" width="400" height="250"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alpsarikisla&show_icons=true&theme=radical" width="470" height="250" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alpsarikisla&show_icons=true&theme=radical" width="400" height="250" />
 </a>
 
 
