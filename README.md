@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<p align="left">![GitHub Repo stars](https://img.shields.io/github/stars/alpsarikisla?style=social) <img src="https://komarev.com/ghpvc/?username=alpsarikisla&label=Profile%20views&color=0e75b6&style=flat" alt="Veksisbusiness.com" /> </p>
+![GitHub Repo stars](https://img.shields.io/github/stars/alpsarikisla?style=social)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alpsarikisla&label=Profile%20views&color=0e75b6&style=flat" alt="Veksisbusiness.com" /> </p>
 ### Connect with me:
 
 <p align="left">
